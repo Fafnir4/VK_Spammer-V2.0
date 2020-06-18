@@ -44,7 +44,7 @@ if doit == "0":
     print("Готово.")
     time.sleep(4)
     os.system("cls")
-    os.system("python spam.py")
+    os.system("python start.py")
 
 
 if doit == "1":
