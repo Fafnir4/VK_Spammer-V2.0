@@ -4,7 +4,7 @@
 # Author: https://vk.com/fafnir_4
 
 import os, time
-os.system("cls")
+os.system("clear")
 print()
 print('╔╗──╔╗─╔╗╔═╗───╔═══╗╔═══╗╔═══╗╔═╗╔═╗╔═╗╔═╗╔═══╗╔═══╗')
 print('║╚╗╔╝║─║║║╔╝───║╔═╗║║╔═╗║║╔═╗║║║╚╝║║║║╚╝║║║╔══╝║╔═╗║')
@@ -44,7 +44,7 @@ if doit == "0":
     print("Готово.")
     time.sleep(4)
     os.system("cls")
-    os.system("3python start.py")
+    os.system("python3 start.py")
 
 
 if doit == "1":
