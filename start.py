@@ -75,7 +75,7 @@ if doit <= "4":
     print("Не верное действие")
     time.sleep(1)
     os.system("clear")
-    os.system("python3 spam.py")
+    os.system("python3 start.py")
 
 if doit >= "0":
     print("Не верное действие")
