@@ -41,7 +41,7 @@ except IOError:
     open('expid.txt', 'w', encoding='utf-8')
     print("expid отсутствует. Был создан новый")
     print("!!!Предупреждение!!!")
-    print("Каждое новую реплику писать через Enter")
+    print("Не больше 4000 символов на строку")
     input('нажмите ENTER для выхода')
     exit(1)
 
